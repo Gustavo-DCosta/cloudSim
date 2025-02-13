@@ -15,6 +15,20 @@ SQLite3 library
 File I/O for storage
 Database content Encryption
 
+🛠 Installation & Usage
+(Currently, CloudSim runs locally. Future updates will include HTTPS support once the home server is set up.)
+
+Clone the repository:
+git clone https://github.com/your-username/cloudSim.git
+
+Compile the code:
+g++ cloudSim.cpp -o cloudSim
+
+Run the program:
+./cloudSim
+
+Store files locally and manage them with authentication.
+
 🔧 Future Improvements
 Improve Log tracking system
 Add files encryption for better security
