@@ -11,6 +11,7 @@ Originally, it was inspired by a Python spyware project I was experimenting with
 
 🛠 Tech Stack
 C++ (Core development)
+SQLite3 library
 File I/O for storage
 Database content Encryption
 
