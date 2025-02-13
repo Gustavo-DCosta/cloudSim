@@ -1,11 +1,19 @@
 # cloudSim
-Cloud in c++
-A good README typically consists of the following sections:
-3.1: Title and Description. Start with a concise project title and a brief description of what your project does. ...
-3.2: Table of Contents. ...
-3.3. ...
-3.4: Usage. ...
-5: Contributing. ...
-6: License. ...
-3.7: Badges (optional) ...
-Additional Sections.
+CloudSim – A C++ CLI Cloud Storage App 
+CloudSim is a cloud-based file storage system written in C++. It allows users to securely store and manage files with authentication and logging features.
+
+Originally, it was inspired by a Python spyware project I was experimenting with, but it evolved into a cloud storage solution.
+
+🚀 Features
+✅ Secure authentification features (hashing + salting)
+✅ Log files for tracking activity
+✅ File storage
+
+🛠 Tech Stack
+C++ (Core development)
+File I/O for storage
+Database content Encryption
+
+🔧 Future Improvements
+Improve Log tracking system
+Add files encryption for better security
